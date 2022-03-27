@@ -4,7 +4,7 @@
 
 Here I made some basic setup for Next.js App. Including but not limited to:
 
-- Next.js from `npx create-next-app@latest --ts`
+- Next.js installs using `npx create-next-app@latest --ts`
 - ESLint setup with basic Google style guide
 - A minimal Prettier config
 - Recomended some (VSCode) extensions
@@ -16,7 +16,7 @@ Project details and explanations will be coming in **Bahasa Indonesia** very soo
 ## Install (using npm)
 
 ```bash
-npx create-next-app nextjs-blog --use-npm --example "https://github.com/ilhambara/your-next-chakra"
+npx create-next-app your-next-chakra --use-npm --example "https://github.com/ilhambara/your-next-chakra"
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
